@@ -3802,7 +3802,7 @@ https://raw.githubusercontent.com/B-inal-123/arabasta-s/main/indosiarTV.m3u8
 
 =======================================
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bjNCrmL.jpeg" group-title="NASIONAL",INDOSIAR (058)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bjNCrmL.jpeg" group-title="NASIONAL",INDOSIAR (🚀8826 V)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=drm
@@ -3810,22 +3810,10 @@ https://raw.githubusercontent.com/B-inal-123/arabasta-s/main/indosiarTV.m3u8
 http://tvratu.my.id/nissa/index.mpd?id=205&type=dash
 https://beetv.my.id/stream/vd.m3u8?ch=indosiar
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bjNCrmL.jpeg" group-title="NASIONAL",🆕INDOSIAR (🚀8826)
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/main/indosiarTV2.m3u8
-
-
-
 ==================PIALA PRES==============
 
 
 ===========================================
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bjNCrmL.jpeg" group-title="NASIONAL",🆕Indosiar 0️⃣(048)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.mpd?id=205&type=drm
-https://tvratu.my.id/vid/index.mpd?id=205&type=dash
 
 
 ++++-
@@ -3855,26 +3843,8 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/in
 
 
 ===EDT
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=93d5b9f9d5d14f15b1ba9582f332d1fc:116e4014a662fef4ea5d7671dd5120d8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-EXTINF:-1 tvg-id="SCTV.id" tvg-name="" tvg-logo="https://i.imgur.com/brh5EU7.jpeg" group-title="NASIONAL",🆕SCTV (✅)
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9e9aba7068ca4c7f8a73381bef5f8742/index.mpd
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://m.vidio.com/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=204&type=drm
-#EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://i.imgur.com/brh5EU7.jpeg" group-title="NASIONAL",🆕SCTV (167V)
-https://tvratu.my.id/vid/index.mpd?id=204&type=dash
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/brh5EU7.jpeg" group-title="NASIONAL",🆕SCTV (048)
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/main/sctvTV2.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/brh5EU7.jpeg" group-title="NASIONAL",🆕SCTV (058)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/brh5EU7.jpeg" group-title="NASIONAL",🆕SCTV (🚀8826)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #https://nextgenz.my.id/event/pidio/play.mpd?id=204&type=dash
 http://tvratu.my.id/nissa/index.mpd?id=204&type=dash
@@ -3887,14 +3857,6 @@ https://beetv.my.id/stream/vd.m3u8?ch=sctv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://i.imgur.com/brh5EU7.jpeg" group-title="NASIONAL",🆕SCTV (167M)
 https://cdnbal1.indihometv.com/atm/DASH/sctv/sctv-avc1_2500000=7-3277707030000000.mpd
-
-#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="" tvg-logo="https://i.imgur.com/bjNCrmL.jpeg" group-title="NASIONAL",🆕INDOSIAR (V✅)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6a8b65c83036329e7185b9cd8cbdee29:0eb2beb5633f8e35cafab45af3d21de0
-https://tvratu.my.id/vid/index.mpd?id=205&type=dash
 
 
 
@@ -3913,11 +3875,12 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/34d8dd29eb1d4eba931c7c5ab5f4be09/ind
 ----------
 
 --------------EDIT INI-----------
-EXTINF:-1 tvg-logo="https://i.imgur.com/tdlUrDv.jpeg" group-title="NASIONAL",🆕Antv (🚀8826)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/tdlUrDv.jpeg" group-title="NASIONAL" tvg-id="ANTV",🆕Antv (🚀8826)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/V/vision/id=10.play
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/webclient/live
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd
 
 
@@ -3948,15 +3911,8 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/in
 
 
 =====
-#EXTINF:-1 tvg-id="auto.trans.tv.cad" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://i.imgur.com/lKH1wII.jpeg" group-title="NASIONAL",🆕TransTV (048)
-https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name="TRANS 7" tvg-logo="https://i.imgur.com/WSnhDLn.jpeg" group-title="NASIONAL" server="TRANS 7 HD" event-duration="4",🆕Trans 7 (🚀8826 v1)
-https://stream.digitalbroadcast.id/lb0/8b2ccc69-a926-436b-bbc0-fb0822062ac4/index.fmp4.m3u8
 
-#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:-1 tvg-id="Trans7.id" tvg-name="" tvg-logo="https://i.imgur.com/WSnhDLn.jpeg" group-title="NASIONAL" ,🆕TRANS 7 (🚀8826 v2)
-https://stream.digitalbroadcast.id/lb0/8b2ccc69-a926-436b-bbc0-fb0822062ac4/index.fmp4.m3u8
 
 
 ------------------- visio TRANS TV COVER https://i.imgur.com/lKH1wII.jpeg
@@ -3975,11 +3931,6 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/in
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/V/vision/id=7.play
 https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd
-
-#EXTINF:-1 tvg-id="Trans7" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://i.imgur.com/WSnhDLn.jpeg" group-title="NASIONAL",🆕 TRANS 7 HD (247B)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://stream.digitalbroadcast.id/lb0/8b2ccc69-a926-436b-bbc0-fb0822062ac4/index.fmp4.m3u8
-
 
 
 vision
@@ -4009,25 +3960,6 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/703a71abac3844748b1e68166242d4f3/ind
 -------- jghj
 ----------
 
-EXTINF:-1 tvg-id="MNCTV HD - [Channel 2].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml"  tvg-logo="https://i.imgur.com/JXLOOxS.jpeg" group-title="NASIONAL",🆕MNCTV (247)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c3004565365a42d08e3bde39a516d64e:dbfdc0967cfbbed01dba730c99d9c14a
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JXLOOxS.jpeg" group-title="NASIONAL",MNC(+) (317)2️⃣
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=http://www.rctiplus.com/
-http://beetv.my.id/stream/rctiplus.m3u8?ch=mnctv
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:contentlookup=false
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://i.imgur.com/JXLOOxS.jpeg" group-title="NASIONAL",MNC (+) (3826)2️⃣
-https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=mnctv
 
 ===
 
@@ -4270,6 +4202,21 @@ LOGO LAMA https://i.imgur.com/0GiICTY.jpeg
 
 #EXTINF:-1 tvg-id="HBO.id" tvg-name="HBO" tvg-logo="https://i.imgur.com/hgyPQif.png group-title="HBO",HBO (NON SUB)
 http://136.239.158.10:6610/001/2/ch00000090990000001065/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BosKg8aLji3LHWqHUI%2FwQyJytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001085&contentid=ch00000000000000001085&videoid=ch00000090990000001065&recommendtype=0&userid=1362658369654&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=UVJL5F87UVBXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/hgyPQif.png" group-title="HBO", HBO ID (1️⃣✅)
+https://raw.githubusercontent.com/B-inal-123/arabasta-s/main/HboID.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/T5qTF1M.png" group-title="HBO", HBO Family ID (1️⃣✅)
+https://raw.githubusercontent.com/B-inal-123/arabasta-s/main/HbofamilyID.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/5lUGmy0.png" group-title="HBO", HBO Hits ID (1️⃣✅)
+https://raw.githubusercontent.com/B-inal-123/arabasta-s/main/HbohitsID.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/1BefgAg.png" group-title="HBO", HBO Signature ID (1️⃣✅)
+https://raw.githubusercontent.com/B-inal-123/arabasta-s/main/HbosignatureID.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/rP1bUsQ.png" group-title="HBO", Cinemax ID (1️⃣✅)
+https://raw.githubusercontent.com/B-inal-123/arabasta-s/main/HbocinemaxID.m3u8
 
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
@@ -4920,6 +4867,21 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/4cae4723d4d54a7fb71020bd7939a202/in
 
 #EXTINF:-1 tvg-id="HBO.id" tvg-name="HBO" tvg-logo="https://i.imgur.com/hgyPQif.png" group-title="FILM",HBO (NON SUB)
 http://136.239.158.10:6610/001/2/ch00000090990000001065/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BosKg8aLji3LHWqHUI%2FwQyJytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001085&contentid=ch00000000000000001085&videoid=ch00000090990000001065&recommendtype=0&userid=1362658369654&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=UVJL5F87UVBXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/hgyPQif.png" group-title="FILM", HBO ID (1️⃣✅)
+https://raw.githubusercontent.com/B-inal-123/arabasta-s/main/HboID.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/T5qTF1M.png" group-title="FILM", HBO Family ID (1️⃣✅)
+https://raw.githubusercontent.com/B-inal-123/arabasta-s/main/HbofamilyID.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/5lUGmy0.png" group-title="FILM", HBO Hits ID (1️⃣✅)
+https://raw.githubusercontent.com/B-inal-123/arabasta-s/main/HbohitsID.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/1BefgAg.png" group-title="FILM", HBO Signature ID (1️⃣✅)
+https://raw.githubusercontent.com/B-inal-123/arabasta-s/main/HbosignatureID.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/rP1bUsQ.png" group-title="FILM", Cinemax ID (1️⃣✅)
+https://raw.githubusercontent.com/B-inal-123/arabasta-s/main/HbocinemaxID.m3u8
 
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
@@ -10123,6 +10085,112 @@ EXTINF:-1 group-logo="https://i.imgur.com/XcBE918.jpeg",BOLA | AFC U23 ASIAN CUP
 ============================================================================================================================================================================
 +++++++++++++++++++++++++++++++++++++++++++ GANTI MATCH LAIN++++++++++++++++++++++Manchester United vs Milan+++++++++++++++++++++++++ GANTI MATCH LAIN+++++++++++++++++++
 ==================================================================================================================================================================================
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uxYdlwY.png" group-title="BOLA | FRIENDLY MATCH",🆕 ARSENAL VS MANCHESTER CITY (TNT SPORT 1 HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:06:9A:77&stream=1905817&extension=ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uxYdlwY.png" group-title="BOLA | FRIENDLY MATCH",🆕ARSENAL VS MANCHESTER CITY (TNT SPORT 1 HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:06:9A:77&stream=1905817&extension=ts
+
+#EXTINF:-1 tvg-id="588056" group-title="BOLA | FRIENDLY MATCH" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12271.jpg?38281",Liverpool vs COMO (UK: LFC TV ᴴᴰ ◉)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 093373F3A0D3AF01F39916797F840DE3
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=588056&extension=ts&play_token=4u1uyFaq3a
+#EXTINF:-1 tvg-id="588057" group-title="BOLA | FRIENDLY MATCH" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12271.jpg?38281",Liverpool vs COMO (UK: LFC TV ᴿᴬᵂ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 093373F3A0D3AF01F39916797F840DE3
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=588057&extension=ts&play_token=ehQiMNdmFi
+#EXTINF:-1 tvg-id="910647" group-title="BOLA | FRIENDLY MATCH" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/LFC.png",Liverpool vs COMO (UK| LFC TV FHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer EBE959BA10EAFCB07DEAB748993A16A1
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=910647&extension=ts&play_token=ZWIY91RLno
+#EXTINF:-1 tvg-id="45268" group-title="BOLA | FRIENDLY MATCH" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/LFC.png",Liverpool vs COMO (UK| LFC TV)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer EBE959BA10EAFCB07DEAB748993A16A1
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=45268&extension=ts&play_token=Gu5lDCgXMJ
+
+#EXTINF:-1 tvg-id="984663" group-title="BOLA | FRIENDLY MATCH" tvg-logo="http://103.176.90.92/images/984663.png",17/08 12:00 AM | Liverpool vs Como 1907 (DE| SKY SPORT PREMIER LEAGUE HEVC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 7DB09E3A2460E0721046A6D5FC9B07DE
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=984663&extension=ts&play_token=EoddSKuO5F
+#EXTINF:-1 tvg-id="971711" group-title="BOLA | FRIENDLY MATCH" tvg-logo="http://103.176.90.92/images/971711.png",17/08 12:00 AM | Liverpool vs Como 1907 (DE| SKY SPORT PREMIER LEAGUE FHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 7DB09E3A2460E0721046A6D5FC9B07DE
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=971711&extension=ts&play_token=f8Ul871IfB
+
+#EXTINF:-1 tvg-id="1667469" group-title="BOLA | FRIENDLY MATCH" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12290.png?75483",17/08 12:00 AM | Liverpool vs Como 1907 (WOW: SKY SPORT TOP EVENT ᴴᴰ ◉)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 40F472ABBF8A2F6E2F8C2810BB12E107
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1667469&extension=ts&play_token=STf0BOKVSC
+#EXTINF:-1 tvg-id="1667469" group-title="BOLA | FRIENDLY MATCH" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12290.png?75483",17/08 12:00 AM | Liverpool vs Como 1907 (WOW: SKY SPORT TOP EVENT ᴴᴰ ◉)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 3C160689215252E6A17504F01D4985C9
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1667469&extension=ts&play_token=MEem8wNyrI
+
+#EXTINF:-1 tvg-id="" group-title="BOLA | FRIENDLY MATCH" tvg-logo="https://i.imgur.com/uxYdlwY.png",🔥RReal Madrid vs Schalke 04 [Geo-blocked] (eng10) (English) (Sports)
+https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
+
+#EXTINF:-1 tvg-id=""  group-title="BOLA | FRIENDLY MATCH" tvg-logo="https://i.imgur.com/uxYdlwY.png",🔥Real Madrid vs Schalke 04a (Real Madrid TV)
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8?hdnea=exp=1653452799~acl=/*~hmac=6fa983776826e1224ab4c19996ce92f00a1ad234617b07fd8a398160d72c19e0
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=77e93f69c2d4c23e2cf8dc9e892f4ac7:71a786d7774d6df4487494145db485a4
+#EXTINF:-1 tvg-id=""  group-title="BOLA | FRIENDLY MATCH" tvg-logo="https://i.imgur.com/uxYdlwY.png",🔥Real Madrid vs Schalke 04 (Real Madrid TV)
+https://dbrb49pjoymg4.cloudfront.net/10001/99951381/hls/playlist.m3u8?ads.xumo_channelId=99951381&ads._fw_ifa_type=[IFA_TYPE]&ads._fw_did=[IFA]&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=&ads.caid=CineverseRealMadrid&ads.csid=xumo_[PLATFORM]_CineverseRealMadrid_ssai&ads._fw_is_lat=[IS_LAT]&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads.genre=[CONTENT_IMDB_GENRE]&ads._fw_content_category=[IAB_content_category]&ads._fw_content_language=[content_language]&ads._fw_content_genre=[content_genre]&ads._fw_content_rating=[content_rating]&ads.xumo_contentId=4183&ads.xumo_contentName=CineverseRealMadrid&ads.xumo_providerId=4183&ads.xumo_providerName=CineverseRealMadrid&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads.channelId=99951381&ads.xumo_platform=[PLATFORM]&ads.site_id=[publica_site_id]&ads.appName=xumo&ads.appVersion=[APP_VERSION]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]
+#EXTGRP:Испания | Spain
+#EXTINF:-1 tvg-id="" group-title="BOLA | FRIENDLY MATCH" tvg-logo="https://i.imgur.com/uxYdlwY.png",🔥Real Madrid vs Schalke 04(Real Madrid TV) eng ES
+http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/15248/index.m3u8
+#EXTGRP:Испания | Spain
+#EXTINF:-1 tvg-id="" group-title="BOLA | FRIENDLY MATCH" tvg-logo="https://i.imgur.com/uxYdlwY.png",🔥Real Madrid vs Schalke 04 (Real Madrid TV) ES
+http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/31847/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="BOLA | FRIENDLY MATCH" tvg-logo="https://i.imgur.com/uxYdlwY.png",🔥Real Madrid vs Schalke 04(Real Madrid TV) 🇪🇸
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
+
+#EXTINF:-1 tvg-id="2063062" group-title="BOLA | FRIENDLY MATCH" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3867.png?ver=88320",16/08 10:00 PM | Real Madrid vs Schalke 04 (STC: STC TV SPORTS 1 ᴴᴰ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 7437B895B59E965A5242ECF4E510912B
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=2063062&extension=ts&play_token=TK1FG40fg0
+#EXTINF:-1 tvg-id="2063204" group-title="BOLA | FRIENDLY MATCH" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3867.png?ver=88320",16/08 10:00 PM | Real Madrid vs Schalke 04 (STC: STC TV SPORTS 1 ʰᵉᵛᶜ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 7437B895B59E965A5242ECF4E510912B
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=2063204&extension=ts&play_token=ucIJdUlsN0
+#EXTINF:-1 tvg-id="1997238" group-title="BOLA | FRIENDLY MATCH" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/3969.png?56038",16/08 10:00 PM | Real Madrid vs Schalke 04 (ARG: TYC SPORTS ᴿᴬᵂ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 7437B895B59E965A5242ECF4E510912B
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1997238&extension=ts&play_token=WXra1biOFB
+#EXTINF:-1 tvg-id="1997239" group-title="BOLA | FRIENDLY MATCH" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/3969.png?56038",16/08 10:00 PM | Real Madrid vs Schalke 04 (ARG: TYC SPORTS ᴿᴬᵂ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 7437B895B59E965A5242ECF4E510912B
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1997239&extension=ts&play_token=f7yOA2d2LL
+#EXTINF:-1 tvg-id="1562706" group-title="BOLA | FRIENDLY MATCH" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/602.png?37284",16/08 10:00 PM | Real Madrid vs Schalke 04 (NL: ZIGGO SPORT 2 ᴿᴬᵂ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 7437B895B59E965A5242ECF4E510912B
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1562706&extension=ts&play_token=t8N5uUH5Vg
+
+#EXTINF:-1 tvg-id="" group-title="BOLA | FRIENDLY MATCH" tvg-logo="https://i.imgur.com/uxYdlwY.png", (Golazo Network (720p) (eng5) (English) (Sports) - 720P)
+https://jmp2.uk/plu-63a0e33a45264d000850ed7e.m3u8
+
+
+
+============================================================================================================================================================================
++++++++++++++++++++++++++++++++++++++++++++ GANTI MATCH LAIN++++++++++++++++++++++Manchester United vs Milan+++++++++++++++++++++++++ GANTI MATCH LAIN+++++++++++++++++++
+==================================================================================================================================================================================
 #EXTINF:-1 group-title="BOLA | FRIENDLY MATCH" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg",🆕Manchester United vs Milan (MUTV) (🚀8826) ✅
 https://get.perfecttv.net/mutv.mpd
 
@@ -12612,84 +12680,12 @@ https://get.perfecttv.net/mutv.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/V/vision/id=113.play
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tRY91LJ.jpeg" group-title="BOLA | ASEAN CHAMPIONSHIP 2026",🔥Singapore vs Thailand (RCTI) (+) (🚀8826)2️⃣
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=http://www.rctiplus.com/
-http://beetv.my.id/stream/rctiplus.m3u8?ch=rcti
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tRY91LJ.jpeg" group-title="BOLA | ASEAN CHAMPIONSHIP 2026",🔥Singapore vs Thailand (GTV)(+) (🚀8826)2️⃣
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=http://www.rctiplus.com/
-http://beetv.my.id/stream/rctiplus.m3u8?ch=gtv
-
-#EXTINF:-1 tvg-id="Vasantham" tvg-name="oktolidays" tvg-logo="https://i.imgur.com/tRY91LJ.jpeg" group-title="BOLA | ASEAN CHAMPIONSHIP 2026",🔥Singapore vs Thailand (meWATCH 1) (🚀8826)
-https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271
-#EXTINF:-1 tvg-id="Vasantham" tvg-name="oktolidays" tvg-logo="https://i.imgur.com/tRY91LJ.jpeg" group-title="BOLA | ASEAN CHAMPIONSHIP 2026",🔥Singapore vs Thailand (meWATCH 2) (🚀8826)
-https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd
 
 ============================================================================================================================================================================
 +++++++++++++++++++++++++++++++++++++++++++ GANTI MATCH LAIN++++++++++++++++++++++Singapore vs Thailandn+++++++++++++++++++++++++ GANTI MATCH LAIN+++++++++++++++++++
 ==================================================================================================================================================================================
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:contentlookup=false
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://i.imgur.com/tRY91LJ.jpeg" group-title="BOLA | ASEAN CHAMPIONSHIP 2026",RCTI (+) (3826)2️⃣
-https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=rcti
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:contentlookup=false
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#EXTINF:-1 tvg-id="RCTI.id"  tvg-logo="https://i.imgur.com/tRY91LJ.jpeg" group-title="BOLA | ASEAN CHAMPIONSHIP 2026",GTV(+) (3826)2️⃣
-https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=gtv
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:contentlookup=false
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://i.imgur.com/tRY91LJ.jpeg" group-title="BOLA | ASEAN CHAMPIONSHIP 2026",MNC (+) (3826)2️⃣
-https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=mnctv
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tRY91LJ.jpeg" group-title="BOLA | ASEAN CHAMPIONSHIP 2026",RCTI (+) (317)2️⃣
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=http://www.rctiplus.com/
-http://beetv.my.id/stream/rctiplus.m3u8?ch=rcti
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tRY91LJ.jpeg" group-title="BOLA | ASEAN CHAMPIONSHIP 2026",GTV(+) (317)2️⃣
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=http://www.rctiplus.com/
-http://beetv.my.id/stream/rctiplus.m3u8?ch=gtv
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tRY91LJ.jpeg" group-title="BOLA | ASEAN CHAMPIONSHIP 2026",INEWS(+) (317)2️⃣
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=http://www.rctiplus.com/
-http://beetv.my.id/stream/rctiplus.m3u8?ch=inews
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tRY91LJ.jpeg" group-title="BOLA | ASEAN CHAMPIONSHIP 2026",MNC(+) (317)2️⃣
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=http://www.rctiplus.com/
-http://beetv.my.id/stream/rctiplus.m3u8?ch=mnctv
-
-
-
-#EXTINF:-1 group-title="BOLA | ASEAN CHAMPIONSHIP 2026" tvg-name="GTV" tvg-logo="https://i.imgur.com/X6EEubm.jpeg",GTV(R+) 2️⃣
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=gtv
-
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#EXTINF:-1 tvg-logo="https://i.imgur.com/X6EEubm.jpeg" group-title="BOLA | ASEAN CHAMPIONSHIP 2026",INEWS (R+)2️⃣
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 
 ======================
 
