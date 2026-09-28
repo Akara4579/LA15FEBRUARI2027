@@ -3628,8 +3628,9 @@ https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508
 #EXTINF:-1 tvg-id="tvOne.id" tvg-logo="https://i.imgur.com/0TDfyNw.jpeg" group-title="NASIONAL;BERITA",🎬TVOne⬅️
 https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/VFZPTkU/manifest.mpd
 
-#EXTINF:-1 tvg-id="CNNIndonesia.id" tvg-logo="https://cdn.cnnindonesia.com/cnnid/images/logo_cnn_fav.png?v=10.15.2" group-title="NASIONAL;BERITA",🎬CNN Indonesia⬅️
-https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/Q05OaS1teQ/manifest.mpd
+#EXTINF:-1 tvg-id="CNN.Indonesia.id" tvg-name="" tvg-logo="" group-title="NASIONAL;BERITA",🎬CNN Indonesia⬅️
+#https://transdetik.stbbh43.workers.dev/cnn.m3u8
+https://green-night-d2b4.iontv.workers.dev/cnn.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -3638,6 +3639,10 @@ https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508
 
 #EXTINF:-1 tvg-id="CNBCIndonesia.id" tvg-logo="https://i.imgur.com/5iu6wvo.jpeg" group-title="NASIONAL;BERITA",🎬CNBC Indonesia ⬅️
 https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/Q05CQy1JbmRvbmVzaWE/manifest.mpd
+
+#EXTINF:-1 tvg-id="CNBC.Indonesia.id" tvg-name="" tvg-logo="https://i.imgur.com/5iu6wvo.jpeg" group-title="NASIONAL;BERITA",🎬CNBC Indonesia ⬅️
+#https://transdetik.stbbh43.workers.dev/cnbc.m3u8
+https://green-night-d2b4.iontv.workers.dev/cnbc.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -4151,6 +4156,12 @@ https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=inews
 #EXTINF:-1 tvg-id="SCTV.id" tvg-name=""  tvg-logo="https://i.imgur.com/brh5EU7.jpeg" group-title="NASIONAL",🆕SCTV (🚀8826 v0)
 https://beetv.my.id/xstreamx/vd.m3u8?ch=sctv
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/brh5EU7.jpeg" group-title="NASIONAL",🆕SCTV (🚀8826 v1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.mpd?id=204
+https://tvratu.my.id/vid/index.mpd?id=204
+
 
 ---------
 INEWS COVER https://i.imgur.com/NTYY97h.jpeg
@@ -4564,7 +4575,7 @@ ANIPLUS COVER https://i.imgur.com/X3M5t4B.jpeg
 ##KODIPROP:inputstream.adaptive.license_key=6f309276a94e45be89a8860159456e84:3fe2eec12885264556ca4e29aa6c0c40
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
-#EXTINF:-1 tvg-id="Animax.id" tvg-name="Animax HD" tvg-logo=""https://i.imgur.com/v9yfAEM.jpeg",🆕Animax (🚀24926)
+#EXTINF:-1 tvg-id="Animax.id" tvg-name="Animax HD"  group-title="ANAK" tvg-logo=""https://i.imgur.com/v9yfAEM.jpeg",🆕Animax (🚀24926)
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/ab3ef0f0e4144c3c8b7e60f1873a3bcc/index.mpd
 
 
@@ -5500,7 +5511,7 @@ ONE COVER https://i.imgur.com/vh4i0gM.jpeg
 TVN https://i.imgur.com/qdkr0yE.jpeg
 TVN MOVIE https://i.imgur.com/tCmJ78c.jpeg
 
-#EXTINF:-1 tvg-id="tvN Movies" tvg-name="tvN Movies" tvg-logo="https://i.imgur.com/tCmJ78c.jpeg",🆕TVN MOVIES (🚀8826 V2)
+#EXTINF:-1 tvg-id="tvN Movies" tvg-name="tvN Movies" group-title="DUNIA | KOREA" tvg-logo="https://i.imgur.com/tCmJ78c.jpeg",🆕TVN MOVIES (🚀8826 V2)
 http://202.150.161.212:5000/live/channel30/playlist.m3u8
 
 #EXTVLCOPT:http-referer=https://www.visionplus.id/
@@ -5508,7 +5519,7 @@ http://202.150.161.212:5000/live/channel30/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=46
-#EXTINF:-1 tvg-id="tvN.Movies.id" tvg-name="tvN Movies" tvg-logo="https://i.imgur.com/tCmJ78c.jpeg",🆕TVN MOVIES (🚀24926) 
+#EXTINF:-1 tvg-id="tvN.Movies.id" tvg-name="tvN Movies" group-title="DUNIA | KOREA" tvg-logo="https://i.imgur.com/tCmJ78c.jpeg",🆕TVN MOVIES (🚀24926) 
 https://d2tjypxxy769fn.cloudfront.net/out/v1/096d5cf064294e7ea3a7f59ee2899669/index.mpd
 
 #EXTVLCOPT:http-referer=https://www.visionplus.id/
@@ -5712,71 +5723,53 @@ https://streams2.sofast.tv/ptnr-yupptv/title-BOLLYWOOD-4U-ENG_yupptv/v1/master/6
 # =====================================================
 #EXTINF:-1 group-logo="https://i.imgur.com/MTI7l2Z.jpeg",EVENT | FIFA ASEAN CUP 2026
 
-#EXTINF:-1 tvg-name="SINDO NEWS" tvg-logo="https://i.imgur.com/MTI7l2Z.jpeg" tvg-id="MNCNews.id" group-title="EVENT | FIFA ASEAN CUP 2026" event-duration="4",📌INDONESIA VS SINGAPURA
+#EXTINF:-1 tvg-name="SINDO NEWS" tvg-logo="https://i.imgur.com/MTI7l2Z.jpeg" tvg-id="MNCNews.id" group-title="EVENT | FIFA ASEAN CUP 2026" event-duration="4",📌INDONESIA VS MALAYSIA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.youtube.com/
 #EXTVLCOPT:http-origin=https://www.youtube.com
-https://www.youtube.com/watch?v=EpKSy3ad2qs
+https://www.youtube.com/watch?v=NfFHec8ETxQ
+
+#EXTINF:-1 group-title="EVENT | FIFA ASEAN CUP 2026" tvg-logo="https://i.ibb.co.com/RGZj2NSX/malay.jpg",🆕Indonesia vs Malaysia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
+https://live2.zundrixmediapipeline.com/live/channel1.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=cc3767ece98a4bdeb39b9ad6b7b8d2fe:769e78dc02d8f73811c97e0f9d5f12fe
-#EXTINF:-1 tvg-id="Ch 5" tvg-logo="https://i.imgur.com/xqYSItV.jpeg" group-title="EVENT | FIFA ASEAN CUP 2026",📌INDONESIA VS SINGAPURA 🆕Channel 5  (🚀25926)
+#EXTINF:-1 tvg-id="Ch 5" tvg-logo="https://i.imgur.com/xqYSItV.jpeg" group-title="EVENT | FIFA ASEAN CUP 2026",🆕Channel 5  (🚀25926)
 https://tglmp02.akamaized.net/out/v1/a32e566460eb41ce9295b9c45fe25825/manifest.mpd
 
 
+#EXTINF:-1 tvg-name="EpKSy3ad2qs" tvg-logo="https://i.ibb.co.com/RGZj2NSX/malay.jpg"group-title="EVENT | FIFA ASEAN CUP 2026",Indosiar
+https://raw.githubusercontent.com/B-inal-123/arabasta-s/main/timnas2.m3u8
+
+#EXTINF:-1 tvg-name="EpKSy3ad2qs" tvg-logo="https://i.ibb.co.com/RGZj2NSX/malay.jpg"group-title="EVENT | FIFA ASEAN CUP 2026",Indosiar2
+http://sansatplus.net:88/02000406070996/1899319467/694349
+
+#EXTINF:-1 tvg-name="EpKSy3ad2qs" tvg-logo="https://i.ibb.co.com/RGZj2NSX/malay.jpg"group-title="EVENT | FIFA ASEAN CUP 2026",T Sport
+https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/TSport.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xqYSItV.jpeg" group-title="EVENT | FIFA ASEAN CUP 2026",🆕MOJI SPORT (VD)
+https://ogietv.biz.id:443/BuatxX2/AppxMaling/25163.m3u8
+
+#EXTINF:-1tvg-logo="https://i.imgur.com/xqYSItV.jpeg" group-title="EVENT | FIFA ASEAN CUP 2026",🆕MOJI 6
+https://ogietv.biz.id:443/BuatxX2/AppxMaling/25163.m3u8
 
 # =====================================================
 # CATEGORY: 20TH ASIAN GAMES AICHI-NAGOYA 2026
 # =====================================================
 #EXTINF:-1 group-logo="https://oca.asia/media/multimedia/images/2026.jpg",EVENT | ASIAN GAMES AICHI-NAGOYA 2026
 
-#EXTINF:-1 tvg-name="SINDO NEWS" tvg-logo="https://i.imgur.com/MTI7l2Z.jpeg" tvg-id="MNCNews.id" group-title="EVENT | ASIAN GAMES AICHI-NAGOYA 2026" event-duration="4",📌AQUATIC SWIMMING (INDONESIA)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.youtube.com/
-#EXTVLCOPT:http-origin=https://www.youtube.com
-https://www.youtube.com/watch?v=9jLZB_UK3l8
 
-#EXTINF:-1 tvg-name="SINDO NEWS" tvg-logo="https://i.imgur.com/MTI7l2Z.jpeg" tvg-id="MNCNews.id" group-title="EVENT | ASIAN GAMES AICHI-NAGOYA 2026" event-duration="4",📌ASIAN GAMES 2026 - 25 SEPTEMBER 2026
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.youtube.com/
-#EXTVLCOPT:http-origin=https://www.youtube.com
-https://www.youtube.com/watch?v=TZE7RYphMKI
-
-#EXTINF:-1 tvg-name="SINDO NEWS" tvg-logo="https://i.imgur.com/MTI7l2Z.jpeg" tvg-id="MNCNews.id" group-title="EVENT | ASIAN GAMES AICHI-NAGOYA 2026" event-duration="4",📌WOMEN'S ATHLETIC HEPTATHLON LONG JUMP
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.youtube.com/
-#EXTVLCOPT:http-origin=https://www.youtube.com
-https://www.youtube.com/watch?v=EpKSy3ad2qs
-
-#EXTINF:-1 tvg-name="SINDO NEWS" tvg-logo="https://i.imgur.com/MTI7l2Z.jpeg" tvg-id="MNCNews.id" group-title="EVENT | ASIAN GAMES AICHI-NAGOYA 2026" event-duration="4",📌WOMEN'S TABLE TENNIS (INDONESIA vs SOUTH KOREA)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.youtube.com/
-#EXTVLCOPT:http-origin=https://www.youtube.com
-https://www.youtube.com/watch?v=7hd8E9ZuTFI
-
-#EXTINF:-1 tvg-name="SINDO NEWS" tvg-logo="https://i.imgur.com/MTI7l2Z.jpeg" tvg-id="MNCNews.id" group-title="EVENT | ASIAN GAMES AICHI-NAGOYA 2026" event-duration="4",📌MEN'S BEACH VOLLEYBALL (INDONESIA VS SOUTH KOREA)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.youtube.com/
-#EXTVLCOPT:http-origin=https://www.youtube.com
-https://www.youtube.com/watch?v=wgjJ-wzRiWg
-
-#EXTINF:-1 tvg-name="SINDO NEWS" tvg-logo="https://i.imgur.com/MTI7l2Z.jpeg" tvg-id="MNCNews.id" group-title="EVENT | ASIAN GAMES AICHI-NAGOYA 2026" event-duration="4",📌WOMEN'S WEIGHTLIFTING 61 KG (INDONESIA - NATASYA BETEYOB)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.youtube.com/
-#EXTVLCOPT:http-origin=https://www.youtube.com
-https://www.youtube.com/watch?v=pG5LrL89f54
-
-
-#EXTINF:-1 tvg-name="SINDO NEWS" tvg-logo="https://i.imgur.com/MTI7l2Z.jpeg" tvg-id="MNCNews.id" group-title="EVENT | ASIAN GAMES AICHI-NAGOYA 2026" event-duration="4",📌WOMEN'S ATHLETIC POLE VAULT (INDONESIA - DIVA RENATTA JAYADI)
+#EXTINF:-1 tvg-name="SINDO NEWS" tvg-logo="https://i.imgur.com/MTI7l2Z.jpeg" tvg-id="MNCNews.id" group-title="EVENT | ASIAN GAMES AICHI-NAGOYA 2026" event-duration="4",📌ASIAN GAMES 2026 - 26 SEPTEMBER 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.youtube.com/
 #EXTVLCOPT:http-origin=https://www.youtube.com
 https://www.youtube.com/watch?v=DY9Ybd-cWNs
-
-
 
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
@@ -7116,6 +7109,46 @@ http://38.75.136.137:98/gslb/dsdqpub/zjwshd.m3u8?auth=testpub
 http://38.75.136.137:98/gslb/dsdqpub/bjwshd.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="Shandong TV" tvg-logo="https://i.imgur.com/x17WfiT.jpeg" group-title="DUNIA | CHINA",🆕 Shandong TV (🚀 24926)
 http://38.75.136.137:98/gslb/dsdqpub/sdwshd.m3u8?auth=testpub
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=160
+#EXTINF:-1 tvg-id="Hunan.International.sg" tvg-name="Hunan TV" tvg-logo="https://i.imgur.com/x17WfiT.jpeg" group-title="DUNIA | CHINA",🆕 HUNAN TV  (🚀 24926)
+https://d2tjypxxy769fn.cloudfront.net/out/v1/63e4d9f383cb4ca59317c7be9407e228/index.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=159
+#EXTINF:-1 tvg-id="Dragon.TV.Intl.sg" tvg-name="Dragon TV"  tvg-logo="https://i.imgur.com/x17WfiT.jpeg" group-title="DUNIA | CHINA",🆕DRAGON TV (🚀 24926)
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2c21b0f4792a42a09a7ed5fee3f010c0/index.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=161
+#EXTINF:-1 tvg-id="Jiangsu TV" tvg-name="Jiangsu TV"  tvg-logo="https://i.imgur.com/x17WfiT.jpeg" group-title="DUNIA | CHINA",🆕JIANGSU TV (🚀 24926)
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/ccc51c0317284496b6cde9f7bd670b80/index.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=157
+#EXTINF:-1 tvg-id="Anhui TV" tvg-name="Anhui TV" tvg-logo="https://i.imgur.com/x17WfiT.jpeg" group-title="DUNIA | CHINA",🆕ANHUI TV (🚀 24926)
+https://d2tjypxxy769fn.cloudfront.net/out/v1/39a34211e80145678ce1616b52368f99/index.mpd
+
 #EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://i.imgur.com/x17WfiT.jpeg" group-title="DUNIA | CHINA",🆕 Sichuan TV (🚀 24926)
 http://38.75.136.137:98/gslb/dsdqpub/scwshd.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://i.imgur.com/x17WfiT.jpeg" group-title="DUNIA | CHINA",🆕 Guangdong TV (🚀 24926)
@@ -8572,26 +8605,31 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/in
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
 
 ====PRIMA SPORT
-#EXTINF:-1 tvg-id="Prima Sport 1" tvg-name="Prima Sport 1" tvg-logo="https://i.imgur.com/cCVrKtK.png" group-title="OLAHRAGA LOKAL;OLAHRAGA POPULER;BOLA | UEFA NATIONS LEAGUE",Prima Sport 1(🏆AIOS)
-#EXTVLCOPT:http-referrer=https://saruman1.tharen1.cfd/000/
+
+#EXTINF:-1 tvg-id="PrimaSport1.ro" tvg-name="Prima Sport 1" tvg-logo="https://i.imgur.com/cCVrKtK.png" group-title="OLAHRAGA LOKAL;OLAHRAGA POPULER;BOLA | UEFA NATIONS LEAGUE",Prima Sport 1(🏆AIOS)
+#EXTVLCOPT:http-referrer=https://iron1.xn--x2rw19a.space/000/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://saruman1.tharen1.cfd/puk1/usergenrx0cir27aq.m3u8
-#EXTINF:-1 tvg-id="Prima Sport 2" tvg-name="Prima Sport 2" tvg-logo="https://i.imgur.com/cCVrKtK.png" group-title="OLAHRAGA LOKAL;OLAHRAGA POPULER;BOLA | UEFA NATIONS LEAGUE",Prima Sport 2(🏆AIOS)
-#EXTVLCOPT:http-referrer=https://arwen1.panaka1.cfd/000/
+https://iron1.xn--x2rw19a.space/puk1/usergenrx0cir27aq.m3u8
+
+#EXTINF:-1 tvg-id="PrimaSport2.ro" tvg-name="Prima Sport 2" tvg-logo="https://i.imgur.com/cCVrKtK.png" group-title="OLAHRAGA LOKAL;OLAHRAGA POPULER;BOLA | UEFA NATIONS LEAGUE",Prima Sport 2(🏆AIOS)
+#EXTVLCOPT:http-referrer=https://iron1.xn--x2rw19a.space/000/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://arwen1.panaka1.cfd/puk2/usergenrnd0clv03fyt.m3u8
-#EXTINF:-1 tvg-id="Prima Sport 3" tvg-name="Prima Sport 3" tvg-logo="https://i.imgur.com/cCVrKtK.png" group-title="OLAHRAGA LOKAL;OLAHRAGA POPULER;BOLA | UEFA NATIONS LEAGUE",Prima Sport 3(🏆AIOS)
-#EXTVLCOPT:http-referrer=https://iron1.jarvisx1.cfd/000/
+https://iron1.xn--x2rw19a.space/puk2/usergenrnd0clv03fyt.m3u8
+
+#EXTINF:-1 tvg-id="PrimaSport3.ro" tvg-name="Prima Sport 3" tvg-logo="https://i.imgur.com/cCVrKtK.png" group-title="OLAHRAGA LOKAL;OLAHRAGA POPULER;BOLA | UEFA NATIONS LEAGUE",Prima Sport 3(🏆AIOS)
+#EXTVLCOPT:http-referrer=https://iron1.xn--x2rw19a.space/000/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://iron1.jarvisx1.cfd/puk3/usergenrx4t0l8sybkr.m3u8
-#EXTINF:-1 tvg-id="Prima Sport 4" tvg-name="Prima Sport 4" tvg-logo="https://i.imgur.com/cCVrKtK.png" group-title="OLAHRAGA LOKAL;OLAHRAGA POPULER;BOLA | UEFA NATIONS LEAGUE",Prima Sport 4(🏆AIOS)
+https://iron1.xn--x2rw19a.space/puk3/usergenrx4t0l8sybkr.m3u8
+
+#EXTINF:-1 tvg-id="PrimaSport4.ro" tvg-name="Prima Sport 4" tvg-logo="https://i.imgur.com/cCVrKtK.png" group-title="OLAHRAGA LOKAL;OLAHRAGA POPULER;BOLA | UEFA NATIONS LEAGUE",Prima Sport 4(🏆AIOS) 
+#EXTVLCOPT:http-referrer=https://polsey1.xn--zlqv28l.shop/000/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://polsey1.xn--zlqv28l.shop/puk4/usergendx3j2x4tqrnd.m3u8
+
+#EXTINF:-1 tvg-id="PrimaSport5.ro" tvg-name="Prima Sport 5"tvg-logo="https://i.imgur.com/cCVrKtK.png" group-title="OLAHRAGA LOKAL;OLAHRAGA POPULER;BOLA | UEFA NATIONS LEAGUE",Prima Sport 5(🏆AIOS)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://canale-tv.com/
-https://galandriel1.thobias11.cfd/puk4/usergendx42x9qrnd.m3u8
-#EXTINF:-1 tvg-id="Prima Sport 5" tvg-name="Prima Sport 5" tvg-logo="https://i.imgur.com/cCVrKtK.png" group-title="OLAHRAGA LOKAL;OLAHRAGA POPULER;BOLA | UEFA NATIONS LEAGUE",Prima Sport 5(🏆AIOS)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://canale-tv.com/
-https://galandriel1.thobias11.cfd/puk5/usergen0grnd3y8.m3u8
+#EXTVLCOPT:http-referrer=https://polsey1.xn--zlqv28l.shop/000/
+https://polsey1.xn--zlqv28l.shop/puk5/usergen0grnd8l2y6gw.m3u8
 
 
 ==========TNT
@@ -8613,7 +8651,7 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1
 #KODIPROP:inputstream.adaptive.license_key=cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd
 
-#EXTINF:-1 tvg-id="TNT 4" tvg-logo="https://i.imgur.com/cCVrKtK.png" group-title="OLAHRAGA LOKAL;OLAHRAGA POPULER 2;OLAHRAGA POPULER 3;BOLA | LIGA INGGRIS;BOLA | SERIE A;BOLA | ;BOLA | BUNDESLIGA;BOLA | LEAGUE CUP;BOLA | UEFA CHAMPIONS LEAGUE;BOLA | UEFA EUROPA LEAGUE;BOLA | UEFA NATIONS LEAGUE;OLAHRAGA | UFC",⭐TNT SPORTS 4 (🏆AIOS)
+#EXTINF:-1 tvg-id="TNT 4" tvg-logo="https://i.imgur.com/cCVrKtK.png" group-title="OLAHRAGA LOKAL;OLAHRAGA POPULER 2;OLAHRAGA POPULER 3;BOLA | LIGA INGGRIS;BOLA | SERIE A;BOLA | BUNDESLIGA;BOLA | LEAGUE CUP;BOLA | UEFA CHAMPIONS LEAGUE;BOLA | UEFA EUROPA LEAGUE;BOLA | UEFA NATIONS LEAGUE;OLAHRAGA | UFC",⭐TNT SPORTS 4 (🏆AIOS)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408
